@@ -11,11 +11,12 @@
 - [Dzmitry-Leushukou](https://github.com/Dzmitry-Leushukou/BSUIR-Labs)
 - [Sonireg](https://github.com/Sonireg/LabWorks)
 - [smaslakov](https://github.com/smaslakov/Labs)
+- [Artyom](https://github.com/Artko06/IiTP_LABs)
 
 2022
 
 - [JankLumin](https://github.com/JankLumin/BSUIR-Labs)
 - [G_Alex](https://github.com/mi-g-alex/G_Alex-IiTP-Labs)
 - [Georga](https://github.com/georga399/BSUIRLabs)
-- [Alkogolek228](https://github.com/Alkogolek228)
+- [Alkogolek228](https://github.com/Nekosaurus-chan)
 - [petrzhal](https://github.com/petrzhal/bsuir_labs)
